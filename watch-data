@@ -1,0 +1,7 @@
+[
+    {"id": 1, "product_name": "Widget A", "price": 19.99, "description": "A high-quality widget for various applications.", "category": "Widgets"},
+    {"id": 2, "product_name": "Gizmo B", "price": 29.99, "description": "The latest gizmo with advanced features.", "category": "Gizmos"},
+    {"id": 3, "product_name": "Thingamajig C", "price": 24.99, "description": "A versatile thingamajig for all your needs.", "category": "Thingamajigs"},
+    {"id": 4, "product_name": "Doodad X", "price": 14.99, "description": "A compact and reliable doodad for everyday use.", "category": "Doodads"},
+    {"id": 5, "product_name": "Whatchamacallit Y", "price": 39.99, "description": "The premium whatchamacallit with cutting-edge technology.", "category": "Whatchamacallits"}
+]
